@@ -43,3 +43,4 @@ AppRegistry.registerComponent('HelloWorld', () => demo);
 //测试这个1
 //git 测试  2
 //git 测试  3
+//git 测试  4
