@@ -41,3 +41,4 @@ import demo from './js/pages/navigator/StackNavigatorDemo';
 // });
 AppRegistry.registerComponent('HelloWorld', () => demo);
 //测试这个1
+//git 测试  没有push哦
